@@ -1,5 +1,5 @@
 # Telecom Churn: Data Mapping & Problem Scoping
-
+![Telecom Churn Data Mapping Architecture](Telecom-Churn-Data-Mapping-Image.jpg)
 ## Overview
 In real-world data analytics, stakeholders rarely provide clean, pre-packaged datasets. Instead, they provide a business problem and expect the analyst to define the scope, determine the required data, and design the mapping structure. 
 
